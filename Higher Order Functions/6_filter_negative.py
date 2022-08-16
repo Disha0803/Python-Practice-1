@@ -1,0 +1,1 @@
+print(tuple(filter(lambda x:x<0,(12,34,5,6,7,-6,3,-5,56,-343))))
